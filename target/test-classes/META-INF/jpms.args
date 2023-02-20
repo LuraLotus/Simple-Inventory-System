@@ -1,4 +1,0 @@
---patch-module
-com.simpleinvtysys=_
---add-reads
-com.simpleinvtysys=ALL-UNNAMED
