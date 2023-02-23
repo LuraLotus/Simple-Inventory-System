@@ -1,4 +1,5 @@
 com\simpleinvtysys\SecondaryController.class
 module-info.class
+com\simpleinvtysys\MainClass.class
 com\simpleinvtysys\PrimaryController.class
-com\simpleinvtysys\App.class
+com\simpleinvtysys\DBMngr.class
